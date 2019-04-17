@@ -1,7 +1,3 @@
-print("This line will be printed.")
+print("Hola Puta")
 
-print("Joana Puta")
-
-print("Hola Cerdo")
-
-print("?")
+print("Here creatin new changes")
