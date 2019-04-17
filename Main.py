@@ -11,3 +11,6 @@ for pineaple in tree:
 
 pygame.mixer.get_endevent()
 
+a=3
+
+
