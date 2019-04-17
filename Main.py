@@ -1,3 +1,5 @@
 print("This line will be printed.")
 
-print("Joana Puta")
+x = 3
+
+a = 2
