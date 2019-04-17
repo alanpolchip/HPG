@@ -9,3 +9,5 @@ PendingDeprecationWarning
 for pineaple in tree:
     x=2
 
+pygame.mixer.get_endevent()
+
